@@ -36,7 +36,7 @@ Pastikan Anda memiliki compiler C++ yang terinstal di sistem Anda. Jika belum, A
 
 4. **Menampilkan Output**
    - Setelah menjalankan program, Anda akan melihat output pilihan konversi satuan meter di layar.
-   - Anda juga dapat melihat tangkapan layar output dalam file `output1.png` dan `output2.png`.Output 1 merupakan tampilan awal program dan Output 2 merupakan kelanjutan dari output 1.
+   - Anda juga dapat melihat tangkapan layar output dalam file `output1.jpg` dan `output2.jpg`.Output 1 merupakan tampilan awal program dan Output 2 merupakan kelanjutan dari output 1.
 
 Sekarang Anda dapat menjalankan dan melihat output dari program konversi satuan meter dengan menggunakan C++! Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk mengajukan di bagian Issues di repository ini.
 
